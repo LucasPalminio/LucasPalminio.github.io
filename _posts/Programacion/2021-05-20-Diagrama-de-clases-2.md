@@ -2,6 +2,7 @@
 layout: post
 title:  "Diagrama de clases 2 - Asociación"
 categories: programación
+author: Lucas Palminio
 ---
 
 # Asociación

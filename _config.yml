@@ -17,8 +17,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+lang: es
 title: Lucas Palminio
+author.name: Lucas Palminio
 email: l.palminio01@ufromail.cl
 description: >- # this means to ignore newlines until "baseurl:"
   Pensando en una descripción interesante...
@@ -33,6 +34,7 @@ github_username:  LucasPalminio
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
 remote_theme: zivong/jekyll-theme-hydure
 # Exclude from processing.
 # The following items will not be processed, by default.
