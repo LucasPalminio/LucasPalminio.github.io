@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diagrama de clases 2 - Asociación"
-categories: programacion
+categories: programación
 ---
 
 # Asociación
